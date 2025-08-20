@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/* Desafio Super Trunfo - Países
+/* Desafio Super Trunfo - Países:  Desafio Mestre
    Tema 3 - Comparação de Cartas com Dois Atributos
 */
 
